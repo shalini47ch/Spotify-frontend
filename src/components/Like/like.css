@@ -1,0 +1,15 @@
+.like-button {
+  .like-outline {
+    background-color: rgba(255, 255, 255, 0.815);
+    width: 2.2rem;
+    height: 2.2rem;
+    &:hover {
+      background-color: white;
+    }
+  }
+  .like-filled {
+    color: red;
+    width: 2.2rem;
+    height: 2.2rem;
+  }
+}
