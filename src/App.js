@@ -1,7 +1,8 @@
 import "./App.css";
 // import Like from "./components/Like/like";
 // import Button from "./components/Button/button";
-import AudioPlayer from "./components/AudioPlayer/audioplayer";
+// import AudioPlayer from "./components/AudioPlayer/audioplayer";
+import Sidebar from "./components/Sidebar/sidebar"
 
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
       {/* <p>Welcome to the client side of spotify website</p>
       <Like />
       <Button label="click me" isFetching={true} /> */}
-      <AudioPlayer />
+      {/* <AudioPlayer /> */}
+      <Sidebar/>
     </div>
   );
 }
