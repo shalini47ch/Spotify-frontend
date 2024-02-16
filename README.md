@@ -20,6 +20,9 @@
 
 <img width="254" alt="image" src="https://github.com/shalini47ch/Spotify-frontend/assets/60210475/28a501f5-d70b-498d-a31c-e7e83317d056">
 
+<img width="269" alt="image" src="https://github.com/shalini47ch/Spotify-frontend/assets/60210475/4685b67c-6a11-4776-badc-3eae7552c97e">
+
+
 
 
 
