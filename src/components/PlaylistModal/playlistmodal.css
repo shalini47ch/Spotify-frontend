@@ -1,0 +1,29 @@
+.container{
+    width:30%;
+    background-color:black;
+    border-radius:12px;
+    margin:10px 5px;
+    
+  
+  
+    .close-btn{
+        color:grey;
+        display:flex;
+        align-self:flex-end;
+    }
+    .form-container{
+        h1{
+            color:white;
+            font-size:medium;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            margin-left:10px;
+            display:flex;
+            align-self:flex-start;
+
+        }
+        
+
+    }
+
+    
+}

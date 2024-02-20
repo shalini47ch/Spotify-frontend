@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom:0.5rem;
+}
+
+.label {
+    font-size: 1rem; /* Adjust label font size */
+    margin-bottom: 0.5rem; /* Adjust spacing between label and input */
+    color:white; /* Adjust label color */
+    display:flex;
+    align-items:flex-start;
+    margin-left:10px;
+}
+
+.input {
+    /* height:auto; */
+    width:200%;
+    font-size: 1rem; /* Adjust input font size */
+    padding: 0.5rem; /* Adjust input padding */
+    border: 1px solid #ccc; /* Adjust input border */
+    border-radius: 0.25rem; /* Adjust input border radius */
+    margin-left:10px;
+}
+
+.input.error {
+    border-color: red; /* Adjust border color for error state */
+}
+
+.error_msg {
+    font-size: 0.9rem; /* Adjust error message font size */
+    color: red; /* Adjust error message color */
+    display: flex;
+    align-items: center; /* Align icon and message horizontally */
+    margin-top: 0.25rem; /* Adjust spacing above error message */
+}
+
+.error_msg svg {
+    margin-right: 0.25rem; /* Adjust spacing between icon and message */
+}
