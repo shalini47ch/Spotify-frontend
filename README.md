@@ -23,6 +23,12 @@
 <img width="269" alt="image" src="https://github.com/shalini47ch/Spotify-frontend/assets/60210475/4685b67c-6a11-4776-badc-3eae7552c97e">
 
 
+Playlist Modal Component with the model hide option
+
+<img width="296" alt="image" src="https://github.com/shalini47ch/Spotify-frontend/assets/60210475/9c704e27-3a1a-4e6c-b31a-daa44d4cbd13">
+
+
+
 
 
 
